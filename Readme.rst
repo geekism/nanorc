@@ -13,7 +13,7 @@ These should be placed inside of the ``~/.nano/`` directory.
 Or for system-wide installation ``/usr/share/nano-syntax-highlighting/``.
 In other words::
 
-    git clone git@github.com:scopatz/nanorc.git ~/.nano
+    git clone git@github.com:geekism/nanorc.git ~/.nano
 
 *Note - if you have any issues (ssh was not properly configured), alternatively use::
 
